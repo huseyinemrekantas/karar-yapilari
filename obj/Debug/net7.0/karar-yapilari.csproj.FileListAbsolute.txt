@@ -1,0 +1,15 @@
+C:\Users\husey\Desktop\Practics\karar-yapilari\obj\Debug\net7.0\karar-yapilari.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\Practics\karar-yapilari\obj\Debug\net7.0\karar-yapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\Practics\karar-yapilari\obj\Debug\net7.0\karar-yapilari.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\Practics\karar-yapilari\obj\Debug\net7.0\karar-yapilari.AssemblyInfo.cs
+C:\Users\husey\Desktop\Practics\karar-yapilari\obj\Debug\net7.0\karar-yapilari.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\Practics\karar-yapilari\bin\Debug\net7.0\karar-yapilari.exe
+C:\Users\husey\Desktop\Practics\karar-yapilari\bin\Debug\net7.0\karar-yapilari.deps.json
+C:\Users\husey\Desktop\Practics\karar-yapilari\bin\Debug\net7.0\karar-yapilari.runtimeconfig.json
+C:\Users\husey\Desktop\Practics\karar-yapilari\bin\Debug\net7.0\karar-yapilari.dll
+C:\Users\husey\Desktop\Practics\karar-yapilari\bin\Debug\net7.0\karar-yapilari.pdb
+C:\Users\husey\Desktop\Practics\karar-yapilari\obj\Debug\net7.0\karar-yapilari.dll
+C:\Users\husey\Desktop\Practics\karar-yapilari\obj\Debug\net7.0\refint\karar-yapilari.dll
+C:\Users\husey\Desktop\Practics\karar-yapilari\obj\Debug\net7.0\karar-yapilari.pdb
+C:\Users\husey\Desktop\Practics\karar-yapilari\obj\Debug\net7.0\karar-yapilari.genruntimeconfig.cache
+C:\Users\husey\Desktop\Practics\karar-yapilari\obj\Debug\net7.0\ref\karar-yapilari.dll
